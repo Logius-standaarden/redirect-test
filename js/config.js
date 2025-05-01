@@ -4,10 +4,10 @@ let respecConfig = {
   license: "cc-by",
   specStatus: "DEF",
   specType: "HR",
-  pubDomain: "dk",
-  shortName: "template",
+  pubDomain: "testdir",
+  shortName: "test",
   publishDate: "2023-06-21",
-  publishVersion: "0.0.3",
+  publishVersion: "1.2.3",
   
   previousPublishVersion: "0.0.2",
   previousPublishDate: "2022-06-24",
