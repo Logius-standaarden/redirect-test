@@ -7,7 +7,7 @@ let respecConfig = {
   pubDomain: "testdir",
   shortName: "test",
   publishDate: "2023-06-21",
-  publishVersion: "1.2.4",
+  publishVersion: "1.2.5",
   
   previousPublishVersion: "0.0.2",
   previousPublishDate: "2022-06-24",
